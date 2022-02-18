@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DEVLifeTips
-- 👀 I’m interested in Python, CSS, Pandas
+- 👀 I’m interested in Python, CSS, Pandas...
 - 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...!
 - 📫 How to reach me ...
 
 <!---
